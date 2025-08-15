@@ -10,6 +10,8 @@ This tutorial covers the fundamentals of Semantic Kernel through three progressi
 2. **[Advanced Agent Features](2-semantic-kernel-advanced.ipynb)** - Streaming responses, structured outputs, reasoning models, and intermediate steps
 3. **[Multi-Agent Orchestration](3-semantic-kernel-orchestration.ipynb)** - Group chat patterns, concurrent processing, handoff systems, and human-in-the-loop workflows
 
+This is a great way to get started quickly. For a more thorough workshop, see: https://github.com/Azure-Samples/semantic-kernel-workshop/tree/main.
+
 ## Setup
 
 ### Prerequisites
